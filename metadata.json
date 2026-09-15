@@ -1,0 +1,6 @@
+{
+  "name": "Saanjh AI - The Private Event Director",
+  "description": "Private luxury event-management command centre and operating system for Saanjh Weddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
